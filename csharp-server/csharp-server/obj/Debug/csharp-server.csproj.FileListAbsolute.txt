@@ -1,0 +1,10 @@
+C:\Users\Andrew Nic\source\repos\csharp-server\csharp-server\bin\Debug\csharp-server.exe.config
+C:\Users\Andrew Nic\source\repos\csharp-server\csharp-server\bin\Debug\csharp-server.exe
+C:\Users\Andrew Nic\source\repos\csharp-server\csharp-server\bin\Debug\csharp-server.pdb
+C:\Users\Andrew Nic\source\repos\csharp-server\csharp-server\bin\Debug\websocket-sharp-core.dll
+C:\Users\Andrew Nic\source\repos\csharp-server\csharp-server\obj\Debug\csharp-server.csproj.AssemblyReference.cache
+C:\Users\Andrew Nic\source\repos\csharp-server\csharp-server\obj\Debug\csharp-server.csproj.SuggestedBindingRedirects.cache
+C:\Users\Andrew Nic\source\repos\csharp-server\csharp-server\obj\Debug\csharp-server.csproj.CoreCompileInputs.cache
+C:\Users\Andrew Nic\source\repos\csharp-server\csharp-server\obj\Debug\csharp-server.csproj.CopyComplete
+C:\Users\Andrew Nic\source\repos\csharp-server\csharp-server\obj\Debug\csharp-server.exe
+C:\Users\Andrew Nic\source\repos\csharp-server\csharp-server\obj\Debug\csharp-server.pdb
